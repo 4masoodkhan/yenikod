@@ -22,7 +22,7 @@
     "@types/node": "24.9.1",
     "madge": "8.0.0",
     "oxlint": "1.64.0",
-    "oxlint-tsgolint": "0.22.1",
+    "oxlint-tsgolint": "7.0.2003",
     "tsup": "8.4.0",
     "typescript": "6.0.2",
     "vitest": "4.1.0",
